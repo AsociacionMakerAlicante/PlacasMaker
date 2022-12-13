@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/AsociacionMakerAlicante/PlacasMaker/blob/main/avr-1.8.5.zip",
           "archiveFileName": "avr-1.8.5.zip",
-          "checksum": "SHA-256:8957F823A2F5B219C23B19C72CD9342E37C388C7CA657F8769037DFA99177469",
+          "checksum": "SHA-256:2C9BCE313F7F507FD4F2068E34AEE0BC1B82CD7EB88B3D2B148D18004EB609CD",
           "size": "760",
           "boards": [
             {"name": "MakerAlc Basic"}
