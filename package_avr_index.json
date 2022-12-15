@@ -12,7 +12,7 @@
         {
           "name": "Arduino AVR Boards",
           "architecture": "avr",
-          "version": "1.8.5",
+          "version": "1.8.6",
           "category": "Contributed",
           "url": "https://github.com/AsociacionMakerAlicante/PlacasMaker/blob/main/avr-1.8.5.zip",
           "archiveFileName": "avr-1.8.5.zip",
