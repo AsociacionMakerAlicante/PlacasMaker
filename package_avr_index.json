@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "MakerAlc Boards",
+      "name": "Arduino",
       "maintainer": "MakerAlc",
       "websiteURL": "http://www.makeralc.org/",
       "email": "info@makeralc.com",
