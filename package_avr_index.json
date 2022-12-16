@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.8.6",
           "category": "Contributed",
-          "url": "https://github.com/AsociacionMakerAlicante/PlacasMaker/blob/main/avr-1.8.6.zip",
+          "url": "https://github.com/AsociacionMakerAlicante/PlacasMaker/raw/main/avr-1.8.6.zip",
           "archiveFileName": "avr-1.8.6.zip",
           "checksum": "SHA-256:5347C0AF9044028434B8E0C82CCF3B07F0CE56D1FBEDF042CF8BFF39FEF671A3",
           "size": "760",
