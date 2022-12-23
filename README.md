@@ -1,3 +1,1 @@
-# Placas Maker Alicante (en construción)
-Placas desarrolladas por la asociación Maker Alicante. 
-Se facilitan los ficheros necesarios para poder añadir las placas al entorno de programación de Arduino y PlatformIO.
+Placas Maker Alicante===Placas desarrolladas por la asociación Maker Alicante.Hasta el momento se han desarrollado dos modelos de placas. Una "MakerAlc Basic" que es compatible 100% con Arduino Pro mini. Existen dos versiones. Una que se alimenta con 5V y tiene un reloj de 16 MHz y la otra se alimenta a 3,3V y tiene una velocidad de 8 MHz.![MarAlc Basic](https://github.com/AsociacionMakerAlicante/PlacasMaker/blob/main/Fotos/MakAlc_Basic.jpg)
